@@ -1,0 +1,9 @@
+{
+  "name": "care-oau-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/static-check.cjs && node tests/regression.mjs"
+  }
+}
